@@ -1,5 +1,7 @@
 # OpenAPI-Beginner-to-Guru
 
+https://github.com/OAI/OpenAPI-Specification
+
 #### Section 2: Overview of OpenAPI
 
 Learn X in Y minutes
@@ -44,3 +46,7 @@ https://github.com/OAI/OpenAPI-Specification/blob/master/examples/v3.0/petstore.
 >* Backers include - Microsoft, Google, and IBM
 * OpenAPI is considered technology agnostic
 >* Thus, developers using Java, .NET, PHP, Ruby, etc - can all benefit from OpenAPI
+
+#### 14. Swagger Hub
+
+https://swagger.io/tools/swaggerhub/
